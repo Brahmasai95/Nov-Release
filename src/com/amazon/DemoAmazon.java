@@ -9,7 +9,7 @@ public class DemoAmazon {
 	public static void main(String[] args) {
 		System.out.println("akjfgajfge");
 		System.out.println("ekufhiu");
-		System.out.println("love you");
+		
 
 	}
 }
